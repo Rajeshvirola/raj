@@ -1,0 +1,57 @@
+/* add your CSS here */
+body{
+    margin-left: 600px;
+    margin-right: 500px;
+	margin-top:20px;
+	margin-bottom:20px;
+}
+
+.all{
+border-style: ;
+border-width: 3px 8px 8px 3px;
+border-style: outset;
+    height: auto;
+    width:305px;
+background-color:;
+background: linear-gradient( to bottom right, orange, skyblue, red, yellow);
+/* background: linear-gradient(to bottom right, #330066, #5c00e6, #0000cc, #330066); */
+/* box-shadow: 3px 3px 6px 1px rgba(0, 0, 0, 0.36); */
+color: white;
+	}
+
+.margin{
+	margin:5px 8px 5px 8px;
+	}
+
+
+.imgg{
+	width:278px;
+                  border-radius: 5px;
+	}
+
+.main{
+	height: auto;
+	border: 2px solid black;
+ background: linear-gradient(to bottom right, red, yellow);
+  border-radius: 4px;
+ 
+  box-shadow: 3px 3px 6px 1px rgba(0, 0, 0, 0.36);
+  padding: 5px;
+}
+	}
+
+.b{
+font-weight:bold;
+	}
+
+.table{
+margin-left:-34px;
+}
+
+.list{
+	list-style-type:none;
+	}
+.pmargin{
+	margin-left:6px;
+margin-right:4px;
+	}
